@@ -1,2 +1,2 @@
 # e-commerce-website
-e-commerce website using Django using javascript  and jquery
+e-commerce website made in Django using javascript  and jquery
